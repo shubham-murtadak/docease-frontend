@@ -1,0 +1,56 @@
+[
+  {
+    "id": "review-1",
+    "name": "Sophia Carter",
+    "designation": "Marketing Manager",
+    "company_name": "BrightMedia Inc.",
+    "image": "https://i.ibb.co/Qd1QWtd/person-1.jpg",
+    "rating": 5,
+    "review": "Amazing experience! The counselor was incredibly supportive and provided actionable advice that truly helped me. Highly recommend!"
+  },
+  {
+    "id": "review-2",
+    "name": "James Harrison",
+    "designation": "Software Engineer",
+    "company_name": "TechNova Solutions",
+    "image": "https://i.ibb.co/ZYW3VTp/person-2.jpg",
+    "rating": 4.5,
+    "review": "Great service overall. The sessions were well-structured and personalized to my needs. Only a bit of delay in scheduling."
+  },
+  {
+    "id": "review-3",
+    "name": "Emily Brooks",
+    "designation": "HR Specialist",
+    "company_name": "PeopleFirst HR",
+    "image": "https://i.ibb.co/6XkBqb5/person-3.jpg",
+    "rating": 4.8,
+    "review": "Very insightful! I feel more confident about my career direction. The tips on interview prep were especially helpful."
+  },
+  {
+    "id": "review-4",
+    "name": "Michael Taylor",
+    "designation": "Financial Analyst",
+    "company_name": "WealthPro Advisors",
+    "image": "https://i.ibb.co/7vwFJ5r/person-4.jpg",
+    "rating": 4.2,
+    "review": "The service was good, but I wish there were more time for Q&A during the session. Otherwise, very professional!"
+  },
+  {
+    "id": "review-5",
+    "name": "Olivia Martin",
+    "designation": "Content Strategist",
+    "company_name": "CreateWorks Studio",
+    "image": "https://i.ibb.co/RGk5DRc/person-5.jpg",
+    "rating": 5,
+    "review": "Absolutely loved it! The counselor went above and beyond to address my concerns. Will definitely book again."
+  },
+  {
+    "id": "review-6",
+    "name": "Daniel Foster",
+    "designation": "Product Manager",
+    "company_name": "InnovateNow Labs",
+    "image": "https://i.ibb.co/VVVvKRr/person-6.jpg",
+    "rating": 4.7,
+    "review": "The session was engaging and informative. The strategies provided for job searching are already showing results!"
+  }
+]
